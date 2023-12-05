@@ -3,7 +3,6 @@
 const heading  = React.createElement("h1", {
       id:"Heading",
       class:"Head",
-      
 }, " Welcome to React !!");
 // console.log(heading);
 
